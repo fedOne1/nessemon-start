@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fedOne1/nessemon-start/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/fedOne1/nessemon-start/static/js/main.75f4acb5.chunk.js",
-    "main.js.map": "/fedOne1/nessemon-start/static/js/main.75f4acb5.chunk.js.map",
-    "runtime-main.js": "/fedOne1/nessemon-start/static/js/runtime-main.f03742d8.js",
-    "runtime-main.js.map": "/fedOne1/nessemon-start/static/js/runtime-main.f03742d8.js.map",
-    "static/js/2.aaa155c9.chunk.js": "/fedOne1/nessemon-start/static/js/2.aaa155c9.chunk.js",
-    "static/js/2.aaa155c9.chunk.js.map": "/fedOne1/nessemon-start/static/js/2.aaa155c9.chunk.js.map",
-    "static/js/3.05e69154.chunk.js": "/fedOne1/nessemon-start/static/js/3.05e69154.chunk.js",
-    "static/js/3.05e69154.chunk.js.map": "/fedOne1/nessemon-start/static/js/3.05e69154.chunk.js.map",
-    "index.html": "/fedOne1/nessemon-start/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/fedOne1/nessemon-start/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.aaa155c9.chunk.js.LICENSE.txt": "/fedOne1/nessemon-start/static/js/2.aaa155c9.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/fedOne1/nessemon-start/static/media/logo.103b5fa1.svg"
+    "main.css": "/nessemon-start/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/nessemon-start/static/js/main.75f4acb5.chunk.js",
+    "main.js.map": "/nessemon-start/static/js/main.75f4acb5.chunk.js.map",
+    "runtime-main.js": "/nessemon-start/static/js/runtime-main.025c93ac.js",
+    "runtime-main.js.map": "/nessemon-start/static/js/runtime-main.025c93ac.js.map",
+    "static/js/2.aaa155c9.chunk.js": "/nessemon-start/static/js/2.aaa155c9.chunk.js",
+    "static/js/2.aaa155c9.chunk.js.map": "/nessemon-start/static/js/2.aaa155c9.chunk.js.map",
+    "static/js/3.05e69154.chunk.js": "/nessemon-start/static/js/3.05e69154.chunk.js",
+    "static/js/3.05e69154.chunk.js.map": "/nessemon-start/static/js/3.05e69154.chunk.js.map",
+    "index.html": "/nessemon-start/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/nessemon-start/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.aaa155c9.chunk.js.LICENSE.txt": "/nessemon-start/static/js/2.aaa155c9.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/nessemon-start/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f03742d8.js",
+    "static/js/runtime-main.025c93ac.js",
     "static/js/2.aaa155c9.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.75f4acb5.chunk.js"
